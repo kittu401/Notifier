@@ -3,7 +3,7 @@ This code is for displaying notification in windows os
 
 # Features
 It takes list of notification Time and message texts.
-and runs loop until all the notifications displayed and the it gets terminated it self
+and runs loop until all the notifications displayed and the it gets terminated it self based on user input.
 
 # Libraries Used
 1. Toast Notifier

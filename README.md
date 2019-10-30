@@ -9,6 +9,7 @@ and runs loop until all the notifications displayed and the it gets either termi
 1. Toast Notifier
 2. Time
 3. Sys
+4. pyinstaller
 
 # IDE
 Pycharm

@@ -16,7 +16,7 @@ def notification(notify_time,notify_message):
             if current_time == i:
                 print(current_time)
                 hr = ToastNotifier()
-                hr.show_toast("test", j)
+                hr.show_toast("Notification", j,"E:\Python\python work space\webScraping\Practice\Graphicloads-Flat-Finance-Global.ico",3)
                 engine = pyttsx3.init()
                 engine.setProperty('rate', 125)
                 engine.setProperty('voice', en_voice_id)
